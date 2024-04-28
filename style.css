@@ -1,0 +1,269 @@
+
+/* header section */
+
+body {
+    margin: 0;
+
+}
+
+
+.head{
+    padding: 1.5%;
+    display: flex;
+    background-color:darkblue;
+}
+
+
+
+
+.portfolio{
+    margin-top: 10px;
+    margin-left: 120px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.unordered, li{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: -70px;
+    margin-left: 
+    font-weight: bold;
+}
+
+.unordered, li,a{
+    color: white;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+.unordered, li,a:hover{
+    color: rgb(199, 109, 31);
+    
+}
+
+.test{
+    display: flex;
+    border-bottom: 100px solid white;
+}
+
+.Hi{
+    margin-top: 300px;
+    margin-left: 200px;
+    color:darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.ben{
+    border-color: blue;
+    color: darkblue;
+    margin-left: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+
+.head2 {
+    background-color: white;
+}
+
+#About{
+    background-color: darkblue;
+    float: left;
+    margin-top: 50px;
+    margin-left: 110px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    float: left;
+    color: white;
+    font-weight: bold;
+}
+
+.mypic{
+    height: 500px;
+    width: 400px;
+    border-radius: 150px;
+    margin-left: 20px;
+    margin-top: 100px;
+    box-shadow: 0 0 20px orangered; 
+    
+    
+    
+}
+
+
+.Me{
+    color: white;
+    background-color:darkblue;
+    border-color: rgb(228, 129, 16);
+    border-radius: px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 200px;
+    font-weight: bold;
+}
+
+.exp{
+
+    color: orangered;
+    background-color: orangered;
+    border-color: darkblue;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 30;
+    border-color: none;
+    font-weight: bold;
+}
+
+
+/* about me page */
+
+.aboutme2{
+    color:darkblue;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0px;
+    margin-left: 40px;
+    margin-top: 20px;
+
+}
+
+.unordered2, li{
+    display: flex;
+    margin-left: 170px;
+    text-decoration: none;
+    font-weight: bold;
+    background-size: cover;
+
+}
+
+/* About me background  */
+.test2{
+    background-color: darkblue;
+    display: flex;
+    border-bottom: 90px solid darkblue;
+}
+
+
+
+.head2{
+    padding: 1.5%;
+    display: flex;
+    background-color:darkblue;
+}
+
+.Hi2{
+    margin-top: 300px;
+    margin-left: 200px;
+    color:whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.ben2{
+
+    color: whitesmoke;
+    margin-left: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+
+.exp2{
+    margin-left: 200px;
+    color: rgb(227, 240, 238);
+    background-color: orangered;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 30;
+}
+
+/* table section */
+.head3{
+    padding: 1.5%;
+    display: flex;
+    background-color:darkblue;
+    border-top: 5px solid gray;
+}
+
+.Education{
+    margin-top: 10px;
+    margin-left: 120px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    float: left;
+    color: white;
+    font-weight: bold;
+}
+
+/* for my contact section */
+.Contact{
+    display: flex;
+    color: white;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+.form{font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: blue;
+    border-width: 12%;
+    margin-top: 100px;
+}
+
+.btn1{
+    height: 30px;
+    width: 80px;
+    background-color: white;
+    color: darkblue;
+    font-weight: bold;
+    border-color: white;
+    font-size: 16px;
+    float: auto;
+}
+
+.btn1.hover{
+    background-color: rgb(109, 27, 27);
+
+}
+
+#form{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: darkblue;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.footer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-top: 10%;
+    margin-left: 40%;
+    background-color: darkblue;
+    color: white;
+}
+
+.audio{
+    margin-top: 90vh;
+    border-color: darkblue;
+}
+
+.Experience{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: darkblue;
+    text-align: center;
+    margin-top: 10%;
+}
