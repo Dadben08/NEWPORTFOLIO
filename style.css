@@ -19,10 +19,15 @@ body {
 .portfolio{
     margin-top: 10px;
     margin-left: 120px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
     color: white;
     font-weight: bold;
+}
+
+.portfolio:hover{
+    transform: translateY(-5px);
+    color: orangered;
 }
 
 .unordered, li{
@@ -36,12 +41,13 @@ body {
 .unordered, li,a{
     color: white;
     font-size: 17px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     text-decoration: none;
 }
 
 .unordered, li,a:hover{
     color: rgb(199, 109, 31);
+    font-size: x-small;
     
 }
 
@@ -54,7 +60,7 @@ body {
     margin-top: 300px;
     margin-left: 200px;
     color:darkblue;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
 }
 
@@ -62,7 +68,7 @@ body {
     border-color: blue;
     color: darkblue;
     margin-left: 200px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
 }
 
@@ -76,7 +82,7 @@ body {
     float: left;
     margin-top: 50px;
     margin-left: 110px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
     float: left;
     color: white;
@@ -87,7 +93,7 @@ body {
     height: 500px;
     width: 400px;
     border-radius: 150px;
-    margin-left: 20px;
+    margin-left: 60px;
     margin-top: 100px;
     box-shadow: 0 0 20px orangered; 
     
@@ -96,7 +102,11 @@ body {
 }
 
 
-.Me{
+
+
+
+.Me
+{
     color: white;
     background-color:darkblue;
     border-color: rgb(228, 129, 16);
@@ -108,6 +118,8 @@ body {
     font-weight: bold;
 }
 
+
+
 .exp{
 
     color: orangered;
@@ -116,8 +128,8 @@ body {
     height: 40px;
     width: 120px;
     border-radius: 10px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 30;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 30px;
     border-color: none;
     font-weight: bold;
 }
@@ -128,7 +140,7 @@ body {
 .aboutme2{
     color:darkblue;
     font-weight: bold;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 0px;
     margin-left: 40px;
     margin-top: 20px;
@@ -163,7 +175,7 @@ body {
     margin-top: 300px;
     margin-left: 200px;
     color:whitesmoke;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
 }
 
@@ -171,7 +183,7 @@ body {
 
     color: whitesmoke;
     margin-left: 200px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
 }
 
@@ -183,7 +195,7 @@ body {
     height: 40px;
     width: 120px;
     border-radius: 10px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 30;
 }
 
@@ -198,7 +210,7 @@ body {
 .Education{
     margin-top: 10px;
     margin-left: 120px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
     float: left;
     color: white;
@@ -210,12 +222,13 @@ body {
     display: flex;
     color: white;
     font-size: 30px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
 
 }
 
-.form{font-family: Georgia, 'Times New Roman', Times, serif;
+.form{
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
     color: blue;
     border-width: 12%;
@@ -233,13 +246,9 @@ body {
     float: auto;
 }
 
-.btn1.hover{
-    background-color: rgb(109, 27, 27);
-
-}
 
 #form{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
     color: darkblue;
     font-weight: bold;
@@ -247,7 +256,7 @@ body {
 }
 
 .footer{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
     margin-top: 10%;
     margin-left: 40%;
@@ -261,7 +270,7 @@ body {
 }
 
 .Experience{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
     color: darkblue;
     text-align: center;
